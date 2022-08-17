@@ -1,8 +1,4 @@
 {
-  "name": "bauhu/db",
-  "description": "Fast Mysql",
-  "minimum-stability": "stable",
-  "license": "proprietary",
   "authors": [
     {
       "name": "henry",
@@ -17,6 +13,11 @@
       "src/db/db.php"
     ]
   },
+  "description": "Fast Mysql",
+  "license": "proprietary",
+  "minimum-stability": "stable",
+  "name": "bauhu/db",
   "require": {
+    "ext-mysql": "2.0.*"
   }
 }
