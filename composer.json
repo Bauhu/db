@@ -18,6 +18,6 @@
   "minimum-stability": "stable",
   "name": "bauhu/db",
   "require": {
-    "ext-mysql": "2.0.*"
+
   }
 }
