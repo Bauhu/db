@@ -1,0 +1,22 @@
+{
+  "name": "bauhu/db",
+  "description": "Fast Mysql",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "henry",
+      "email": "henry@bauhu.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "db\\": "src/db/"
+    },
+    "files": [
+      "src/db/db.php"
+    ]
+  },
+  "require": {
+  }
+}
